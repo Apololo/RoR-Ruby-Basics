@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/Apololo/Html_gem
+  revision: 8e6486f4e22b91ff490e9acf026db415bfb69e8f
+  branch: master
+  specs:
+    html_gem (0.0.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  html_gem!
+
+BUNDLED WITH
+   1.16.1

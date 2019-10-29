@@ -1,0 +1,1 @@
+gem 'html_gem', git: 'https://github.com/Apololo/Html_gem', branch: 'master'
